@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhiiik
+- 👋 Hi, I’m Abhijeet!
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning Android development
 - 💞️ I’m looking to collaborate on ...
